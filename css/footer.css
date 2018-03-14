@@ -1,0 +1,18 @@
+.pinkColor {
+  color: #b95356; }
+
+.wrapperFooter {
+  width: 100%;
+  background-color: #1b1d20; }
+
+.Footer {
+  margin: auto;
+  padding: 20px 20px 15px 25px;
+  max-width: 1170px;
+  text-align: center;
+  font-size: 0.75rem;
+  color: #fefefe; }
+  .Footer a {
+    color: #b95356; }
+  .Footer a:hover {
+    color: #fefefe; }

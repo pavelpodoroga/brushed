@@ -1,0 +1,29 @@
+.pinkColor {
+  color: #b95356; }
+
+.wrapperFooterInfo {
+  background-color: #1b1d20; }
+
+.FooterInfo {
+  max-width: 1170px;
+  margin: auto;
+  padding-top: 110px;
+  padding-bottom: 34px;
+  text-align: center; }
+  .FooterInfo p {
+    font-size: 1.25rem; }
+  .FooterInfo span {
+    font-style: italic;
+    font-size: 1rem; }
+
+.twiterIco {
+  display: block;
+  margin: auto;
+  margin-top: 60px;
+  background-image: url(../img/sprite.png);
+  background-position: -48px -80px;
+  width: 16px;
+  height: 14px; }
+
+.twiterIco:hover {
+  background-position: -64px -80px; }

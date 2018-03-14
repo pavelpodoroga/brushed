@@ -1,0 +1,89 @@
+.pinkColor {
+  color: #b95356; }
+
+.wrapperAboutUs {
+  background-color: #26292e;
+  width: 100%;
+  padding-bottom: 80px; }
+
+.AboutUs {
+  margin: auto;
+  max-width: 1170px; }
+
+.AboutUs__Item {
+  margin: auto;
+  width: 370px; }
+
+.AboutUsItem__title {
+  padding-top: 20px; }
+
+.AboutUs-Item-img {
+  width: inherit; }
+
+.AboutUs-socialIcon {
+  display: flex;
+  justify-content: flex-start; }
+  .AboutUs-socialIcon li {
+    margin-right: 20px; }
+  .AboutUs-socialIcon a {
+    display: block;
+    width: 16px;
+    height: 16px; }
+
+.twitter {
+  background-image: url(../img/sprite.png);
+  background-position: -48px -80px; }
+
+.twitter:hover {
+  background-position: -64px -80px; }
+
+.linked-in {
+  background-image: url(../img/sprite.png);
+  background-position: -16px -80px; }
+
+.linked-in:hover {
+  background-position: -64px -60px; }
+
+.dribbble {
+  background-image: url(../img/sprite.png);
+  background-position: -80px -60px; }
+
+.dribbble:hover {
+  background-position: 0px -80px; }
+
+.AboutUs-Article {
+  border-left: 3px solid #b95356;
+  padding-left: 20px;
+  padding-top: 25px;
+  padding-bottom: 30px;
+  margin-top: 80px; }
+
+.AboutUs__Title {
+  font-weight: 600;
+  font-size: 2rem; }
+  .AboutUs__Title span {
+    color: #b95356; }
+
+.AboutUs-paragraph {
+  font-size: 1rem; }
+
+.but {
+  display: inline-block;
+  margin: auto;
+  height: 50px;
+  height: 50px;
+  background-color: #3c3f45;
+  color: white;
+  text-transform: uppercase;
+  padding: 15px 40px;
+  text-align: center; }
+
+.but:hover {
+  color: white; }
+
+.but_form {
+  height: 60px; }
+
+.AboutUs-but {
+  margin: auto;
+  margin-top: 175px; }

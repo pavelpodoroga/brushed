@@ -1,0 +1,29 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #26292e;
+  height: 60px; }
+
+.mainNavigation {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  box-sizing: border-box; }
+  .mainNavigation li {
+    display: block;
+    height: 100%; }
+
+.mainNavigation-link {
+  color: white;
+  display: block;
+  height: inherit;
+  text-transform: uppercase;
+  padding: 20px;
+  font-size: 1rem;
+  font-family: "TitilliumText25L", sans-serif;
+  font-weight: 600; }
+
+.mainNavigation-link:hover {
+  color: #b95356;
+  text-decoration: none; }

@@ -1,0 +1,37 @@
+.pinkColor {
+  color: #b95356; }
+
+.wrapperOurWork {
+  background-color: #2f3238;
+  padding-bottom: 85px; }
+
+.OurWork {
+  max-width: 1170px;
+  display: block;
+  margin: auto; }
+
+.asideNavigation li {
+  display: block; }
+
+.asideNavigation a {
+  font-size: 1rem;
+  display: block; }
+
+.asideGallery {
+  padding: 0; }
+  .asideGallery .col-md-4 {
+    padding: 15px; }
+
+.asideGallery__Item {
+  width: 270px;
+  height: 200px;
+  margin: auto; }
+  .asideGallery__Item a {
+    display: block;
+    width: inherit; }
+  .asideGallery__Item a:hover {
+    background-color: #b95356; }
+  .asideGallery__Item a:hover .asideGalleryImg {
+    opacity: 0; }
+  .asideGallery__Item img {
+    width: inherit; }

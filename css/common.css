@@ -1,0 +1,49 @@
+.pinkColor {
+  color: #b95356; }
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0; }
+
+body {
+  color: #7f8289; }
+
+h1, h2, h3, h4, h5, h6 {
+  color: #fefefe;
+  font-family: "TitilliumText25L", sans-serif;
+  font-weight: 400; }
+
+a {
+  color: white; }
+
+a:hover {
+  color: #b95356; }
+
+.linkTitle {
+  font-size: 3rem;
+  font-family: "TitilliumText25L", sans-serif;
+  font-weight: 400;
+  margin: 0;
+  color: #fefefe; }
+
+.linkHeader:hover {
+  color: #b95356; }
+
+.asideTitle {
+  width: 100%;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 70px; }
+  .asideTitle p {
+    font-family: "TitilliumText25L", sans-serif;
+    font-weight: 250;
+    font-size: 1.5rem;
+    padding-top: 10px;
+    margin-bottom: 0; }
+
+.paragraphLink {
+  color: #b95356; }
+
+.paragraphLink:hover {
+  color: #fefefe; }

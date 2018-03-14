@@ -1,0 +1,120 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-behanceBig {
+  background-image: url(sprite.png);
+  background-position: 0px -60px;
+  width: 32px;
+  height: 20px;
+}
+.icon-behanceBigHover {
+  background-image: url(sprite.png);
+  background-position: -32px -60px;
+  width: 32px;
+  height: 20px;
+}
+.icon-dribbbleBig {
+  background-image: url(sprite.png);
+  background-position: 0px 0px;
+  width: 32px;
+  height: 32px;
+}
+.icon-dribbbleBigHover {
+  background-image: url(sprite.png);
+  background-position: -32px 0px;
+  width: 32px;
+  height: 32px;
+}
+.icon-dribbbleSmalHover {
+  background-image: url(sprite.png);
+  background-position: 0px -80px;
+  width: 16px;
+  height: 16px;
+}
+.icon-dribbbleSmall {
+  background-image: url(sprite.png);
+  background-position: -80px -60px;
+  width: 16px;
+  height: 16px;
+}
+.icon-facebookBig {
+  background-image: url(sprite.png);
+  background-position: -96px -32px;
+  width: 15px;
+  height: 32px;
+}
+.icon-facebookBigHover {
+  background-image: url(sprite.png);
+  background-position: -96px 0px;
+  width: 15px;
+  height: 32px;
+}
+.icon-linked-inSmall {
+  background-image: url(sprite.png);
+  background-position: -16px -80px;
+  width: 16px;
+  height: 16px;
+}
+.icon-linked-inSmallHover {
+  background-image: url(sprite.png);
+  background-position: -64px -60px;
+  width: 16px;
+  height: 16px;
+}
+.icon-twitter {
+  background-image: url(sprite.png);
+  background-position: -32px -80px;
+  width: 16px;
+  height: 14px;
+}
+.icon-twitterBig {
+  background-image: url(sprite.png);
+  background-position: -64px -28px;
+  width: 32px;
+  height: 28px;
+}
+.icon-twitterBigHover {
+  background-image: url(sprite.png);
+  background-position: -64px 0px;
+  width: 32px;
+  height: 28px;
+}
+.icon-twitterSmall {
+  background-image: url(sprite.png);
+  background-position: -48px -80px;
+  width: 16px;
+  height: 14px;
+}
+.icon-twitterSmallHover {
+  background-image: url(sprite.png);
+  background-position: -64px -80px;
+  width: 16px;
+  height: 14px;
+}
+.icon-vimeoBig {
+  background-image: url(sprite.png);
+  background-position: -32px -32px;
+  width: 32px;
+  height: 28px;
+}
+.icon-vimeoBigHover {
+  background-image: url(sprite.png);
+  background-position: 0px -32px;
+  width: 32px;
+  height: 28px;
+}

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'TitilliumText25L-600wt';
+  src: url('TitilliumText25L-600wt.eot');
+  src: url('TitilliumText25L-600wt.woff2') format('woff2'),
+       url('TitilliumText25L-600wt.woff') format('woff'),
+       url('TitilliumText25L-600wt.ttf') format('truetype'),
+       url('TitilliumText25L-600wt.svg#TitilliumText25L-600wt') format('svg'),
+       url('TitilliumText25L-600wt.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
